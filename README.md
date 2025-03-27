@@ -1,8 +1,8 @@
-💳 Java Bank App
+## 💳 Java Bank App
 
 A Java-based banking application that manages user accounts and transactions with a modern GUI built using JavaFX. Ideal for learning object-oriented design, GUI development, and basic banking logic.
 
-🧩 Features
+## 🧩 Features
 
 🔐 Account creation
 
@@ -15,7 +15,7 @@ A Java-based banking application that manages user accounts and transactions wit
 🖥️ Intuitive GUI built with JavaFX
 
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Language: Java
 
@@ -25,9 +25,9 @@ Build Tool: Maven
 
 IDE Recommendation: IntelliJ IDEA
 
-Screenshots
+## Screenshots
 ![img.png](screenshots/img.png)
 ![img_1.png](screenshots/img_1.png)
-📄 License
+## 📄 License
 This project is open-source and available under the MIT License.
 
