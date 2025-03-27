@@ -25,7 +25,9 @@ Build Tool: Maven
 
 IDE Recommendation: IntelliJ IDEA
 
-
+Screenshots
+![img.png](screenshots/img.png)
+![img_1.png](screenshots/img_1.png)
 📄 License
 This project is open-source and available under the MIT License.
 
